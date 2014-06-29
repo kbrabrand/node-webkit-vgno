@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:vg="http://www.vg.no/namespace">
+    <channel>
+        <image>
+            <title>VG RSS</title>
+            <url>http://static.vg.no/leonora/gfk/front/vglogo.gif</url>
+            <link>http://www.vg.no</link>
+        </image>
+        <title>VG RSS</title>
+        <ttl>10</ttl>
+        <description>VG RSS</description>
+        <link>http://www.vg.no/rss/feed/forsiden/?format=rss&amp;limit=100</link>
+        <lastBuildDate>Sun, 29 Jun 2014 09:23:00 +0200</lastBuildDate>
+        <item>
+            <title>Manhattan brenner fortsatt!</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/nyhetsbyraa-5-personer-skutt-paa-manhattan/a/2das32s42741/</link>
+            <guid>http://www.vg.no/a/23242741/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/nyhetsbyraa-5-personer-skutt-paa-manhattan/a/23242741/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 08:39:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>Befalselever i kanonform!</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/forsvaret/befalselever-i-kanonform/a/23242310/</link>
+            <guid>http://www.vg.no/a/23242310/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/forsvaret/befalselever-i-kanonform/a/23242310/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 08:13:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>Kvinne skutt i foten i Bergen</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/kvinne-skutt-i-foten-i-bergen/a/23242729/</link>
+            <guid>http://www.vg.no/a/23242729/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/kvinne-skutt-i-foten-i-bergen/a/23242729/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 05:13:13 +0200</pubDate>
+        </item>
+        <item>
+            <title>Politiet: Har avhørt flere vitner</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/politiet-har-avhoert-flere-vitner/a/23242617/</link>
+            <guid>http://www.vg.no/a/23242617/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/politiet-har-avhoert-flere-vitner/a/23242617/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 06:24:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nabo: Hørte skudd og så person løpe fra stedet</title>
+            <description></description>
+            <link>http://www.vgtv.no/#!/video/84451/vitner-til-vg-her-flyktet-mannen-etter-aa-ha-avfyrt-skudd</link>
+            <guid>http://www.vgtv.no/#!/video/84451/vitner-til-vg-her-flyktet-mannen-etter-aa-ha-avfyrt-skudd</guid>
+            <vg:waplink>http://www.vgtv.no/#!/video/84451/vitner-til-vg-her-flyktet-mannen-etter-aa-ha-avfyrt-skudd</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 08:29:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Politikilde: 19 fryktes drept i bygningskollaps</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/india/politikilde-19-fryktes-drept-i-bygningskollaps/a/23242730/</link>
+            <guid>http://www.vg.no/a/23242730/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/india/politikilde-19-fryktes-drept-i-bygningskollaps/a/23242730/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 08:37:14 +0200</pubDate>
+        </item>
+        <item>
+            <title>Elvis-imitator tatt av politiet etter vill flukt</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/elvis-imitator-tatt-av-politiet-etter-vill-flukt/a/23242374/</link>
+            <guid>http://www.vg.no/a/23242374/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/elvis-imitator-tatt-av-politiet-etter-vill-flukt/a/23242374/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 07:48:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>5 tøffe kameraer for eventyrlystne</title>
+            <description></description>
+            <link>http://www.vg.no/forbruker/5-toeffe-kameraer-for-eventyrlystne/a/23239484/</link>
+            <guid>http://www.vg.no/a/23239484/</guid>
+            <vg:waplink>http://www.vg.no/forbruker/5-toeffe-kameraer-for-eventyrlystne/a/23239484/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 07:57:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Reisebloggen: Finnes det klarere vann?</title>
+            <description></description>
+            <link>http://reisebloggen.vg.no/2014/06/29/charterferie-pa-kypros-dag-6-finnes-det-klarere-vann/</link>
+            <guid>http://reisebloggen.vg.no/2014/06/29/charterferie-pa-kypros-dag-6-finnes-det-klarere-vann/</guid>
+            <vg:waplink>http://reisebloggen.vg.no/2014/06/29/charterferie-pa-kypros-dag-6-finnes-det-klarere-vann/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 06:54:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>Eva (92) blir betalt for å shoppe for millioner</title>
+            <description></description>
+            <link>http://www.vg.no/a/23240461/</link>
+            <guid>http://www.vg.no/a/23240461/</guid>
+            <vg:waplink>http://www.vg.no/a/23240461/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 07:25:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Saftige horn til søndagsfrokosten</title>
+            <description></description>
+            <link>http://www.godt.no/#!/oppskrift/1770/myke-og-saftige-horn</link>
+            <guid>http://www.godt.no/#!/oppskrift/1770/myke-og-saftige-horn</guid>
+            <vg:waplink>http://www.godt.no/#!/oppskrift/1770/myke-og-saftige-horn</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 08:00:49 +0200</pubDate>
+        </item>
+        <item>
+            <title>Slik sendte VMs beste spiller Colombia til kvartfinalen</title>
+            <description></description>
+            <link>http://www.vg.no/sport/fotball/fotball-vm-2014/slik-sendte-vms-beste-spiller-colombia-til-kvartfinalen/a/23242642/</link>
+            <guid>http://www.vg.no/a/23242642/</guid>
+            <vg:waplink>http://www.vg.no/sport/fotball/fotball-vm-2014/slik-sendte-vms-beste-spiller-colombia-til-kvartfinalen/a/23242642/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 01:19:27 +0200</pubDate>
+        </item>
+        <item>
+            <title>Drømmemålet som får studio til å gå av hengslene</title>
+            <description></description>
+            <link>http://direkte.vg.no/studio/vgsporten/#!videoId=84446</link>
+            <guid>http://direkte.vg.no/studio/vgsporten/#!videoId=84446</guid>
+            <vg:waplink>http://direkte.vg.no/studio/vgsporten/#!videoId=84446</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 00:00:43 +0200</pubDate>
+        </item>
+        <item>
+            <title>- På vei mot å bli VMs største</title>
+            <description></description>
+            <link>http://direkte.vg.no/studio/vgsporten/#!videoId=84452</link>
+            <guid>http://direkte.vg.no/studio/vgsporten/#!videoId=84452</guid>
+            <vg:waplink>http://direkte.vg.no/studio/vgsporten/#!videoId=84452</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 00:44:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Hevnen er søt Her får den norske sangstjernen sitt livs sjokk</title>
+            <description></description>
+            <link>http://www.vgtv.no/#!/video/84192/hevnen-er-soet-episode-9-massasje</link>
+            <guid>http://www.vgtv.no/#!/video/84192/hevnen-er-soet-episode-9-massasje</guid>
+            <vg:waplink>http://www.vgtv.no/#!/video/84192/hevnen-er-soet-episode-9-massasje</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 07:46:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sabeltann-Formoe døden nær</title>
+            <description></description>
+            <link>http://www.vgtv.no/#!id=84410&amp;#38;index=2</link>
+            <guid>http://www.vgtv.no/#!id=84410&amp;#38;index=2</guid>
+            <vg:waplink>http://www.vgtv.no/#!id=84410&amp;#38;index=2</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 07:43:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>Dramatisk video: Turister fanget i bur med hai</title>
+            <description></description>
+            <link>http://www.vgtv.no/#!id=84414&amp;#38;index=4</link>
+            <guid>http://www.vgtv.no/#!id=84414&amp;#38;index=4</guid>
+            <vg:waplink>http://www.vgtv.no/#!id=84414&amp;#38;index=4</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 07:43:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nostalgi med energi</title>
+            <description></description>
+            <link>http://www.vg.no/rampelys/anmeldelse/nostalgi-med-energi/a/23242726/</link>
+            <guid>http://www.vg.no/a/23242726/</guid>
+            <vg:waplink>http://www.vg.no/rampelys/anmeldelse/nostalgi-med-energi/a/23242726/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 01:24:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>To bygninger har kollapset i India - flere omkommet</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/india/to-bygninger-har-kollapset-i-india-flere-omkommet/a/23242426/</link>
+            <guid>http://www.vg.no/a/23242426/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/india/to-bygninger-har-kollapset-i-india-flere-omkommet/a/23242426/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 03:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Her selger alenemødre sex - midt i London</title>
+            <description></description>
+            <link>http://pluss.vg.no/2014/06/28/1667/1667_23241714#xtor=CS1-1-23241714[Her+selger+alenem%C3%B8dre+sex+midt+i+London]</link>
+            <guid>http://pluss.vg.no/2014/06/28/1667/1667_23241714#xtor=CS1-1-23241714[Her+selger+alenem%C3%B8dre+sex+midt+i+London]</guid>
+            <vg:waplink>http://pluss.vg.no/2014/06/28/1667/1667_23241714#xtor=CS1-1-23241714[Her+selger+alenem%C3%B8dre+sex+midt+i+London]</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 01:47:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Her falt «Skuddene i Sarajevo»</title>
+            <description></description>
+            <link>http://www.vgtv.no/#!id=84415</link>
+            <guid>http://www.vgtv.no/#!id=84415</guid>
+            <vg:waplink>http://www.vgtv.no/#!id=84415</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 02:05:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Splittet 100-årsmarkering i Bosnia</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/historie-og-arkeologi/splittet-100-aarsmarkering-i-bosnia/a/23242654/</link>
+            <guid>http://www.vg.no/a/23242654/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/historie-og-arkeologi/splittet-100-aarsmarkering-i-bosnia/a/23242654/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 22:29:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Denne boksen skal gjøre bilen din selvkjørende</title>
+            <description></description>
+            <link>http://e24.no/bil/denne-boksen-skal-gjoere-bilen-din-selvkjoerende/23238924</link>
+            <guid>http://e24.no/bil/denne-boksen-skal-gjoere-bilen-din-selvkjoerende/23238924</guid>
+            <vg:waplink>http://e24.no/bil/denne-boksen-skal-gjoere-bilen-din-selvkjoerende/23238924</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 20:03:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Kjendisadvokat inviterte til sommerfest: Pilgaard med kveldens drøyeste partytriks</title>
+            <description></description>
+            <link>http://www.vgtv.no/#!id=84453</link>
+            <guid>http://www.vgtv.no/#!id=84453</guid>
+            <vg:waplink>http://www.vgtv.no/#!id=84453</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 02:54:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Suarez: - Jeg falt, det var ikke et bitt</title>
+            <description></description>
+            <link>http://www.vg.no/sport/fotball-vm-2014/suarez-jeg-falt-det-var-ikke-et-bitt/a/23242304/</link>
+            <guid>http://www.vg.no/a/23242304/</guid>
+            <vg:waplink>http://www.vg.no/sport/fotball-vm-2014/suarez-jeg-falt-det-var-ikke-et-bitt/a/23242304/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 16:12:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Defoe krangler med lagkompis - så blir han ydmyket</title>
+            <description></description>
+            <link>http://direkte.vg.no/studio/vgsporten/#!videoId=84432</link>
+            <guid>http://direkte.vg.no/studio/vgsporten/#!videoId=84432</guid>
+            <vg:waplink>http://direkte.vg.no/studio/vgsporten/#!videoId=84432</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 19:27:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Se Wenger (64) stupe som Van Persie</title>
+            <description></description>
+            <link>http://direkte.vg.no/studio/vgsporten/#!videoId=84426</link>
+            <guid>http://direkte.vg.no/studio/vgsporten/#!videoId=84426</guid>
+            <vg:waplink>http://direkte.vg.no/studio/vgsporten/#!videoId=84426</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 19:27:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Søker etter antatt omkommet person</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/soeker-etter-antatt-omkommet-person/a/23242402/</link>
+            <guid>http://www.vg.no/a/23242402/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/soeker-etter-antatt-omkommet-person/a/23242402/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 00:01:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ap-Hadias hemmelige maktbryllup</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/norsk-politikk/ap-hadias-hemmelige-maktbryllup/a/23242421/</link>
+            <guid>http://www.vg.no/a/23242421/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/norsk-politikk/ap-hadias-hemmelige-maktbryllup/a/23242421/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 19:11:49 +0200</pubDate>
+        </item>
+        <item>
+            <title>Etterlyser syklist som syklet på jente (13) under Styrkeprøven</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/etterlyser-syklist-som-syklet-paa-jente-13-under-styrkeproeven/a/23242588/</link>
+            <guid>http://www.vg.no/a/23242588/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/etterlyser-syklist-som-syklet-paa-jente-13-under-styrkeproeven/a/23242588/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 20:40:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>Costume benekter venninneforhold</title>
+            <description></description>
+            <link>http://www.vg.no/a/23242522/</link>
+            <guid>http://www.vg.no/a/23242522/</guid>
+            <vg:waplink>http://www.vg.no/a/23242522/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 23:14:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Adrian (4) døde i barnehagen i Ålesund</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/adrian-4-doede-i-barnehagen-i-aalesund/a/23242382/</link>
+            <guid>http://www.vg.no/a/23242382/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/adrian-4-doede-i-barnehagen-i-aalesund/a/23242382/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 19:49:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Slik var det nervepirrende straffedramaet</title>
+            <description></description>
+            <link>http://direkte.vg.no/studio/vgsporten/#!videoId=84443</link>
+            <guid>http://direkte.vg.no/studio/vgsporten/#!videoId=84443</guid>
+            <vg:waplink>http://direkte.vg.no/studio/vgsporten/#!videoId=84443</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 23:14:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Helten lovet å redde tre straffer</title>
+            <description></description>
+            <link>http://www.vg.no/sport/fotball/fotball-vm-2014/helten-lovet-aa-redde-tre-straffer/a/23242579/</link>
+            <guid>http://www.vg.no/a/23242579/</guid>
+            <vg:waplink>http://www.vg.no/sport/fotball/fotball-vm-2014/helten-lovet-aa-redde-tre-straffer/a/23242579/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 23:05:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>VGs sportsblogg: Rapport fra et galehus</title>
+            <description></description>
+            <link>http://www.vg.no/sport/fotball/fotball-vm-2014/vgs-sportsblogg-rapport-fra-et-galehus/a/23242659/</link>
+            <guid>http://www.vg.no/a/23242659/</guid>
+            <vg:waplink>http://www.vg.no/sport/fotball/fotball-vm-2014/vgs-sportsblogg-rapport-fra-et-galehus/a/23242659/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 23:21:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Riksadvokaten: – Kan ikke gi tillatelse til
+            forskning</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/forskningsavsloeringen/riksadvokaten-kan-ikke-gi-tillatelse-til-forskning/a/23241884/</link>
+            <guid>http://www.vg.no/a/23241884/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/forskningsavsloeringen/riksadvokaten-kan-ikke-gi-tillatelse-til-forskning/a/23241884/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 22:53:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Kirkeklokker mot svenske nazister på Gotland</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/sverige/kirkeklokker-mot-svenske-nazister-paa-gotland/a/23242653/</link>
+            <guid>http://www.vg.no/a/23242653/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/sverige/kirkeklokker-mot-svenske-nazister-paa-gotland/a/23242653/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 22:49:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Har du klosett på maken!</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/dyrene/har-du-klosett-paa-maken/a/23242378/</link>
+            <guid>http://www.vg.no/a/23242378/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/dyrene/har-du-klosett-paa-maken/a/23242378/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 16:37:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mann (29) døde etter hyttebrann</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/mann-29-doede-etter-hyttebrann/a/23242586/</link>
+            <guid>http://www.vg.no/a/23242586/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/mann-29-doede-etter-hyttebrann/a/23242586/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 20:10:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Resterende OSSE-observatører frigitt</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/ukraina/resterende-osse-observatoerer-frigitt/a/23242595/</link>
+            <guid>http://www.vg.no/a/23242595/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/ukraina/resterende-osse-observatoerer-frigitt/a/23242595/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 20:38:31 +0200</pubDate>
+        </item>
+        <item>
+            <title>Hagen vil redde den lokale bingoen</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/norsk-politikk/hagen-vil-redde-den-lokale-bingoen/a/23238782/</link>
+            <guid>http://www.vg.no/a/23238782/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/norsk-politikk/hagen-vil-redde-den-lokale-bingoen/a/23238782/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 19:38:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>Her er favorittmobilene billigst</title>
+            <description></description>
+            <link>http://www.dinepenger.no/bruke/her-er-favorittmobilene-billigst/23240465</link>
+            <guid>http://www.dinepenger.no/bruke/her-er-favorittmobilene-billigst/23240465</guid>
+            <vg:waplink>http://www.dinepenger.no/bruke/her-er-favorittmobilene-billigst/23240465</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 08:56:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>To Ryanair-fly kolliderte på London-flyplass</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/to-ryanair-fly-kolliderte-paa-london-flyplass/a/23242494/</link>
+            <guid>http://www.vg.no/a/23242494/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/to-ryanair-fly-kolliderte-paa-london-flyplass/a/23242494/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 17:17:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Contador-hjelper droppes fra Touren</title>
+            <description></description>
+            <link>http://www.vg.no/sport/sykkel/contador-hjelper-droppes-fra-touren/a/23242543/</link>
+            <guid>http://www.vg.no/a/23242543/</guid>
+            <vg:waplink>http://www.vg.no/sport/sykkel/contador-hjelper-droppes-fra-touren/a/23242543/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 18:38:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Forsuring og forsoning i norsk politikk</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/meninger/krf/forsuring-og-forsoning-i-norsk-politikk/a/23241915/</link>
+            <guid>http://www.vg.no/a/23241915/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/meninger/krf/forsuring-og-forsoning-i-norsk-politikk/a/23241915/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 19:25:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Se hvor godt de traff</title>
+            <description></description>
+            <link>http://pluss.vg.no/2014/06/27/1670/1670_23242149#xtor=CS1-1-23242149[Klarsynte%3A+D%C3%A5rligere+enn+gjetting]</link>
+            <guid>http://pluss.vg.no/2014/06/27/1670/1670_23242149#xtor=CS1-1-23242149[Klarsynte%3A+D%C3%A5rligere+enn+gjetting]</guid>
+            <vg:waplink>http://pluss.vg.no/2014/06/27/1670/1670_23242149#xtor=CS1-1-23242149[Klarsynte%3A+D%C3%A5rligere+enn+gjetting]</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 01:03:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>6.000 evakuert fra flom i Brasil</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/brasil/6-000-evakuert-fra-flom-i-brasil/a/23242568/</link>
+            <guid>http://www.vg.no/a/23242568/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/brasil/6-000-evakuert-fra-flom-i-brasil/a/23242568/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 18:59:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mann funnet død i Øst-Finnmark</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/mann-funnet-doed-i-oest-finnmark/a/23242444/</link>
+            <guid>http://www.vg.no/a/23242444/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/mann-funnet-doed-i-oest-finnmark/a/23242444/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 16:23:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Vektere brakk armen på mann uten togbillett</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/vektere-brakk-armen-paa-mann-uten-togbillett/a/23241184/</link>
+            <guid>http://www.vg.no/a/23241184/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/vektere-brakk-armen-paa-mann-uten-togbillett/a/23241184/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 12:24:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>Se den dramatiske hendelsen på Oslo S</title>
+            <description></description>
+            <link>http://www.vgtv.no/#!id=84419</link>
+            <guid>http://www.vgtv.no/#!id=84419</guid>
+            <vg:waplink>http://www.vgtv.no/#!id=84419</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 17:41:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Colombia har VMs beste spiller</title>
+            <description></description>
+            <link>http://www.vg.no/sport/fotball/fotball-vm-2014/colombia-har-vms-beste-spiller/a/23242348/</link>
+            <guid>http://www.vg.no/a/23242348/</guid>
+            <vg:waplink>http://www.vg.no/sport/fotball/fotball-vm-2014/colombia-har-vms-beste-spiller/a/23242348/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 15:07:05 +0200</pubDate>
+        </item>
+        <item>
+            <title>- Vi er lært opp til å tilgi</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/bosnia/vi-er-laert-opp-til-aa-tilgi/a/23242502/</link>
+            <guid>http://www.vg.no/a/23242502/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/bosnia/vi-er-laert-opp-til-aa-tilgi/a/23242502/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 19:03:21 +0200</pubDate>
+        </item>
+        <item>
+            <title>1.500 kofferter ligger igjen på Kastrup</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/1-500-kofferter-ligger-igjen-paa-kastrup/a/23242497/</link>
+            <guid>http://www.vg.no/a/23242497/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/1-500-kofferter-ligger-igjen-paa-kastrup/a/23242497/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 17:20:43 +0200</pubDate>
+        </item>
+        <item>
+            <title>- Jeg har jo blitt kåret til årets hetero</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/jeg-har-jo-blitt-kaaret-til-aarets-hetero/a/23242393/</link>
+            <guid>http://www.vg.no/a/23242393/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/jeg-har-jo-blitt-kaaret-til-aarets-hetero/a/23242393/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 15:58:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>Tirsdag blir dette forbudt</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/tirsdag-blir-dette-forbudt/a/23242300/</link>
+            <guid>http://www.vg.no/a/23242300/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/tirsdag-blir-dette-forbudt/a/23242300/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 08:09:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nå er fasten i gang</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/naa-er-fasten-i-gang/a/23242525/</link>
+            <guid>http://www.vg.no/a/23242525/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/naa-er-fasten-i-gang/a/23242525/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 02:18:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>LSK dyttet Stabæk nedover på tabellen</title>
+            <description></description>
+            <link>http://www.vg.no/sport/fotball/kvinnefotball/lsk-dyttet-stabaek-nedover-paa-tabellen/a/23242515/</link>
+            <guid>http://www.vg.no/a/23242515/</guid>
+            <vg:waplink>http://www.vg.no/sport/fotball/kvinnefotball/lsk-dyttet-stabaek-nedover-paa-tabellen/a/23242515/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 17:51:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>- Britisk nederlag øker sjansen for EU-avstemning</title>
+            <description></description>
+            <link>http://e24.no/utenriks/britisk-nederlag-oeker-sjansen-for-eu-avstemning/23242392</link>
+            <guid>http://e24.no/utenriks/britisk-nederlag-oeker-sjansen-for-eu-avstemning/23242392</guid>
+            <vg:waplink>http://e24.no/utenriks/britisk-nederlag-oeker-sjansen-for-eu-avstemning/23242392</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 16:46:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Syv drept i ISIL-angrep i Irak</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/utenriks/irak/syv-drept-i-isil-angrep-i-irak/a/23242340/</link>
+            <guid>http://www.vg.no/a/23242340/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/utenriks/irak/syv-drept-i-isil-angrep-i-irak/a/23242340/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 12:59:40 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sikkerhetsmani og påbudsiver</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/meninger/sikkerhetsmani-og-paabudsiver/a/23242155/</link>
+            <guid>http://www.vg.no/a/23242155/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/meninger/sikkerhetsmani-og-paabudsiver/a/23242155/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 13:10:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Kronikk: Ingen regnbue over Midtøsten</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/meninger/midtoesten/kronikk-ingen-regnbue-over-midtoesten/a/23241944/</link>
+            <guid>http://www.vg.no/a/23241944/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/meninger/midtoesten/kronikk-ingen-regnbue-over-midtoesten/a/23241944/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 18:14:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>Eksperter og kjæresters beste råd:Slik får du kjærlighetentil å blomstre</title>
+            <description></description>
+            <link>http://pluss.vg.no/2014/06/27/1670/1670_23242066#xtor=CS1-1-23242066[V%C3%A5re+beste+kj%C3%A6rlighetsr%C3%A5d]</link>
+            <guid>http://pluss.vg.no/2014/06/27/1670/1670_23242066#xtor=CS1-1-23242066[V%C3%A5re+beste+kj%C3%A6rlighetsr%C3%A5d]</guid>
+            <vg:waplink>http://pluss.vg.no/2014/06/27/1670/1670_23242066#xtor=CS1-1-23242066[V%C3%A5re+beste+kj%C3%A6rlighetsr%C3%A5d]</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sun, 29 Jun 2014 02:54:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mor og sønn alvorlig skadet i hyttebrann</title>
+            <description></description>
+            <link>http://www.vg.no/nyheter/innenriks/mor-og-soenn-alvorlig-skadet-i-hyttebrann/a/23242338/</link>
+            <guid>http://www.vg.no/a/23242338/</guid>
+            <vg:waplink>http://www.vg.no/nyheter/innenriks/mor-og-soenn-alvorlig-skadet-i-hyttebrann/a/23242338/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 19:59:28 +0200</pubDate>
+        </item>
+        <item>
+            <title>Denne trøya kartlegger din fysiske form</title>
+            <description></description>
+            <link>http://e24.no/digital/denne-troeya-kartlegger-din-fysiske-form/23242339</link>
+            <guid>http://e24.no/digital/denne-troeya-kartlegger-din-fysiske-form/23242339</guid>
+            <vg:waplink>http://e24.no/digital/denne-troeya-kartlegger-din-fysiske-form/23242339</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 09:54:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Range Rover med stor R</title>
+            <description></description>
+            <link>http://e24.no/bil/range-rover-med-stor-r/23241668</link>
+            <guid>http://e24.no/bil/range-rover-med-stor-r/23241668</guid>
+            <vg:waplink>http://e24.no/bil/range-rover-med-stor-r/23241668</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 12:18:49 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sportsbloggen: Har FIFA litt av æren for målfesten?</title>
+            <description></description>
+            <link>http://vgsporten.vg.no/2014/06/28/har-fifa-litt-av-aeren-for-malfesten/</link>
+            <guid>http://vgsporten.vg.no/2014/06/28/har-fifa-litt-av-aeren-for-malfesten/</guid>
+            <vg:waplink>http://vgsporten.vg.no/2014/06/28/har-fifa-litt-av-aeren-for-malfesten/</vg:waplink>
+            <vg:img></vg:img>
+            <vg:articleImg></vg:articleImg>
+            <vg:body></vg:body>
+            <pubDate>Sat, 28 Jun 2014 18:30:19 +0200</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Latest from VG</title>
+    <link href="css/pure-min.css" rel="stylesheet"/>
+    <link href="css/style.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="header"><img src="img/logo277x64.png"/></div>
+    <div class="list container"><span class="Loading RSS..."></span></div>
+
+    <script>
+        require('nw.gui').Window.get().showDevTools();
+
+        var $          = require('jquery'),
+            _          = require('lodash'),
+            FeedParser = require('feedparser'),
+            fs         = require('fs');
+
+        var refreshInterval = 2, //seconds
+            feed            = 'data/vg.forsiden.rss',
+            container       = $('.container'),
+            articleRow      = '<div class="item" data-url="<%= url %>" data-datetime="<%= datetime %>"><h2><%= title %></h2><div class="source"><%= url %></div></div>',
+            lastBuildDate   = '',
+            updated;
+
+        var articles = [];
+
+        function findClosestPreviousArticle(datetime) {
+            var max = '',
+                maxUrl;
+
+            _.forEach(articles, function(date, url) {
+                if (datetime > date && date > max) {
+                    max = date;
+                    maxUrl = url;
+                }
+            });
+
+            if (!max) {
+                return [];
+            } else {
+                return $('.item[data-url="' + maxUrl + '"]', container);
+            }
+        }
+
+        function loadVGFeed(initialLoad) {
+            initialLoad = initialLoad || false;
+
+            $('.placeholder', container).remove();
+
+            // Create readstream. Obviously errors needs
+            // to be handled for anything closer to production
+            fs.createReadStream(feed)
+                .on('error', function (error) {})
+                .pipe(new FeedParser())
+                .on('error', function (error) {})
+                .on('meta', function (meta) {
+                    var buildDate = meta['rss:lastbuilddate']['#'];
+
+                    updated = buildDate > lastBuildDate;
+                    lastBuildDate = buildDate;
+                })
+                .on('readable', function() {
+                    if (!updated) {
+                        return;
+                    }
+
+                    var stream = this, item;
+                    while (item = stream.read()) {
+                        var existing = $('.item[data-url="' + item.link + '"]', container);
+
+                        if (existing.length && existing.data('datetime') === item.pubDate) {
+                            return;
+                        }
+
+                        var newRow = $(_.template(articleRow, {
+                            url: item.link,
+                            title: item.pubDate + ' :: ' + item.title,
+                            datetime: item.pubDate
+                        }));
+
+                        articles[item.link] = item.pubDate;
+                        existing.remove();
+
+                        var previous = findClosestPreviousArticle(item.pubDate)
+
+                        if (previous.length) {
+                            newRow.insertBefore(previous);
+                        } else {
+                            newRow.appendTo(container);
+                        }
+                    }
+                });
+        }
+
+        // Initial feed load
+        loadVGFeed(true);
+
+        setInterval(loadVGFeed, refreshInterval * 1000);
+    </script>
+</body>
+</html>

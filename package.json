@@ -1,0 +1,22 @@
+{
+  "name": "node-webkit-vgno",
+  "version": "0.0.0",
+  "description": "Example node webkit app showing the latest articles from the VG.no RSS",
+  "main": "index.html",
+  "window": {
+    //"toolbar": false,
+    "width": 1000,
+    "height": 600
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kristoffer Brabrand <kristoffer@brabrand.no>",
+  "license": "MIT",
+  "dependencies": {
+    "feedparser": "^0.18.1",
+    "lodash": "^2.4.1",
+    "jquery": "^2.1.1",
+    "through": "~2.3.4"
+  }
+}

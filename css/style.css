@@ -1,0 +1,35 @@
+body {
+    font-family: "proxima-nova", sans-serif;
+}
+
+#header {
+    text-align: center;
+    background: rgb(221, 0, 0);
+}
+
+.list .item {
+    padding: 0.9em 1em;
+    border-bottom: 1px solid #ddd;
+}
+
+.list .item:hover {
+    background: #eee;
+}
+
+.list .item a {
+    text-decoration: none;
+}
+
+.list .item h2 {
+    font-family: "omnes-pro", sans-serif;
+    font-weight: 100;
+    line-height: 1.5;
+    margin: 0;
+    color: #666;
+}
+
+.list .item .source {
+    font-size: 70%;
+    color: #ccc;
+    text-transform: uppercase;
+}
