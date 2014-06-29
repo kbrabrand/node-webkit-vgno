@@ -15,88 +15,63 @@
         var $          = require('jquery'),
             _          = require('lodash'),
             FeedParser = require('feedparser'),
-            fs         = require('fs');
+            http       = require('http'),
+            gui        = require('nw.gui');
 
-        var refreshInterval = 2, //seconds
-            feed            = 'data/vg.forsiden.rss',
+        var refreshInterval = 30, //seconds
+            feedUrl         = 'http://www.vg.no/rss/feed/?limit=50&format=rss&categories=&keywords=',
             container       = $('.container'),
-            articleRow      = '<div class="item" data-url="<%= url %>" data-datetime="<%= datetime %>"><h2><%= title %></h2><div class="source"><%= url %></div></div>',
+            articleRow      = '<div class="item" data-url="<%= url %>" data-datetime="<%= datetime %>"><h2><%= title %></h2><div class="source"><%= source %></div></div>',
             lastBuildDate   = '',
             updated;
 
-        var articles = [];
-
-        function findClosestPreviousArticle(datetime) {
-            var max = '',
-                maxUrl;
-
-            _.forEach(articles, function(date, url) {
-                if (datetime > date && date > max) {
-                    max = date;
-                    maxUrl = url;
-                }
-            });
-
-            if (!max) {
-                return [];
-            } else {
-                return $('.item[data-url="' + maxUrl + '"]', container);
-            }
-        }
-
-        function loadVGFeed(initialLoad) {
-            initialLoad = initialLoad || false;
-
-            $('.placeholder', container).remove();
-
+        function loadVGFeed() {
             // Create readstream. Obviously errors needs
             // to be handled for anything closer to production
-            fs.createReadStream(feed)
-                .on('error', function (error) {})
-                .pipe(new FeedParser())
-                .on('error', function (error) {})
-                .on('meta', function (meta) {
-                    var buildDate = meta['rss:lastbuilddate']['#'];
+            // than this demo
+            http.get(feedUrl, function(resource) {
+                resource
+                    .pipe(new FeedParser())
+                    .on('error', function (error) {})
+                    .on('meta', function (meta) {
+                        var buildDate = meta['rss:lastbuilddate']['#'];
 
-                    updated = buildDate > lastBuildDate;
-                    lastBuildDate = buildDate;
-                })
-                .on('readable', function() {
-                    if (!updated) {
-                        return;
-                    }
+                        updated = buildDate > lastBuildDate;
+                        lastBuildDate = buildDate;
 
-                    var stream = this, item;
-                    while (item = stream.read()) {
-                        var existing = $('.item[data-url="' + item.link + '"]', container);
-
-                        if (existing.length && existing.data('datetime') === item.pubDate) {
+                        if (updated) {
+                            container.empty();
+                        }
+                    })
+                    .on('readable', function() {
+                        if (!updated) {
                             return;
                         }
 
-                        var newRow = $(_.template(articleRow, {
-                            url: item.link,
-                            title: item.pubDate + ' :: ' + item.title,
-                            datetime: item.pubDate
-                        }));
+                        var stream = this, item;
+                        while (item = stream.read()) {
+                            var newRow = $(_.template(articleRow, {
+                                url: item.link,
+                                title: item.title,
+                                datetime: item.pubDate,
+                                source: item.link.replace(/^http[s]?:\/\//, '')
+                            }));
 
-                        articles[item.link] = item.pubDate;
-                        existing.remove();
+                            newRow.on('click', function() {
+                                // Open URL with default browser.
+                                gui.Shell.openExternal($(this).data('url'));
+                            });
 
-                        var previous = findClosestPreviousArticle(item.pubDate)
-
-                        if (previous.length) {
-                            newRow.insertBefore(previous);
-                        } else {
                             newRow.appendTo(container);
                         }
-                    }
-                });
+                    });
+            });
         }
 
         // Initial feed load
-        loadVGFeed(true);
+        loadVGFeed();
 
+        // Set interval to get updated feed date
         setInterval(loadVGFeed, refreshInterval * 1000);
     </script>
 </body>

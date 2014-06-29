@@ -23,13 +23,15 @@ body {
 .list .item h2 {
     font-family: "omnes-pro", sans-serif;
     font-weight: 100;
-    line-height: 1.5;
+    line-height: 1;
+    font-size: 1.2em;
     margin: 0;
     color: #666;
 }
 
 .list .item .source {
-    font-size: 70%;
+    font-size: 0.6em;
     color: #ccc;
     text-transform: uppercase;
+    word-break: break-all;
 }
